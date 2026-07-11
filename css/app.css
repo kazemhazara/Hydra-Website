@@ -1722,7 +1722,7 @@ input::placeholder {
   }
   .form {
     width: 100%;
-    min-width: 343px;
+    max-width: 343px;
     border-radius: 40px;
   }
   .form__header hr {
