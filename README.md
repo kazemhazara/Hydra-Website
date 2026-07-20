@@ -8,7 +8,7 @@ Hydra Website is a responsive landing page created to practice front-end web dev
   ## Technologies
   - HTML5
   - CSS
-    ##Screenshot
+    ## Screenshot
     Desktop
     ![Hydra Website](screenshots/screenshot-Desktop.png)
     Mobile
